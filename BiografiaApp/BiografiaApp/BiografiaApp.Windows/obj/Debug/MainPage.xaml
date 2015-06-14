@@ -8,15 +8,18 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <TextBox x:Name="tbxNome" HorizontalAlignment="Left" Margin="49,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280"/>
-        <DatePicker x:Name="dtpDataNasc" HorizontalAlignment="Left" Margin="49,125,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="tbxBiografia" HorizontalAlignment="Left" Margin="49,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" Height="216"/>
-        <TextBlock x:Name="tblNome" HorizontalAlignment="Left" Margin="49,38,0,0" TextWrapping="Wrap" Text="Nome" VerticalAlignment="Top"/>
-        <TextBlock x:Name="tblDataNasc" HorizontalAlignment="Left" Margin="49,107,0,0" TextWrapping="Wrap" Text="Data de Nascimento" VerticalAlignment="Top"/>
-        <TextBlock x:Name="tblBiografia" HorizontalAlignment="Left" Margin="49,180,0,0" TextWrapping="Wrap" Text="Biografia" VerticalAlignment="Top"/>
-        <Button x:ConnectionId='1' x:Name="btnConsultar" Content="Consultar" HorizontalAlignment="Left" Margin="46,441,0,0" VerticalAlignment="Top"                           />
-        <Button x:ConnectionId='2' x:Name="btnCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="234,441,0,0" VerticalAlignment="Top"                           />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="241*"/>
+            <ColumnDefinition Width="442*"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="lvPessoas" HorizontalAlignment="Left" Height="462" Margin="31,78,0,0" VerticalAlignment="Top" Width="397" BorderThickness="0" SelectionMode="None"/>
+        <TextBlock x:Name="tblBiografias" HorizontalAlignment="Left" Margin="31,33,0,0" TextWrapping="Wrap" Text="Biografias:" VerticalAlignment="Top" Height="35" FontSize="30" Width="151" Foreground="#FFBFBFBF"/>
+        <Button x:ConnectionId='1' x:Name="btnCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="333,560,0,0" VerticalAlignment="Top"                           />
+
 
     </Grid>
+
+
+
 </Page>
 

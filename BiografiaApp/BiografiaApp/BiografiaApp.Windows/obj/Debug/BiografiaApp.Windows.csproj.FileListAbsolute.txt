@@ -30,3 +30,12 @@ c:\users\débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp
 c:\users\débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\qualifiers.txt.intermediate
 c:\users\débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\BiografiaApp.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\BiografiaApp.Windows.csproj.GenerateResource.Cache
+C:\Users\Débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\Cadastrar.g.i.cs
+C:\Users\Débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\Cadastrar.g.cs
+C:\Users\Débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\Cadastrar.xbf
+C:\Users\Débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\Cadastrar.xaml
+C:\Users\Débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\Cadastrar.xbf

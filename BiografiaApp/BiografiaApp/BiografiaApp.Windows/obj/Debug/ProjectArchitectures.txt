@@ -1,1 +1,1 @@
-C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\BiografiaApp.Windows.csproj;neutral
+C:\Users\Débora\documents\visual studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\BiografiaApp.Windows.csproj;neutral
