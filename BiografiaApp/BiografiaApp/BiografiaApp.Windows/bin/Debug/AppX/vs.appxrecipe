@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEBEE-NOTE</Machine>
+    <WindowsUser>Débora</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6723d524-afcc-4c56-b734-96b71c2fe0a4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EF7418B495D28F420E5053CEE629589249FDA3C5F667A2BB517ED1FD5890544B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6723d524-afcc-4c56-b734-96b71c2fe0a4_1.0.0.0_neutral__gyyeqyfvkf01j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6723d524-afcc-4c56-b734-96b71c2fe0a4_gyyeqyfvkf01j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6723d524-afcc-4c56-b734-96b71c2fe0a4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Débora</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-10T01:14:23.230</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\BiografiaApp.Windows.exe">
+      <PackagePath>BiografiaApp.Windows.exe</PackagePath>
+      <Modified>2015-06-14T02:29:37.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-10T01:14:22.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-14T02:05:56.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\BiografiaApp.Windows.xr.xml">
+      <PackagePath>BiografiaApp.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-14T02:05:56.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Débora\Documents\Visual Studio 2013\Projects\BiografiaApp\BiografiaApp\BiografiaApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-10T01:14:22.723</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
